@@ -12,4 +12,4 @@ A custom tag template for implementing Selectika Pixel tracking via Google Tag M
 3. Publish via GTM
 
 ## Author
-Your Name — https://datalemon.io
+Alif Mahmud — https://datalemon.io
