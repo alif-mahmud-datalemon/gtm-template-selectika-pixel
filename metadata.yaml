@@ -1,4 +1,4 @@
 homepage: "https://datalemon.io/"
 versions:
-  - sha: 7f84c9e1e38b2c8d055145f1a0f264d78e293f26
+  - sha: 7c82a8f4e67dc9c2efd5a0c2bbe903dc31b7e3a8
     changeNotes: Initial release.
