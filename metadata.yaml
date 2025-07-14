@@ -1,7 +1,4 @@
-name: Selectika Pixel
-type: tag
-description: Lightweight tag for Selectika Pixel implementation supporting init and track.
-author:
-  name: Alif Mahmud
-  url: https://datalemon.io
-version: 1.0.0
+homepage: "https://datalemon.io/"
+versions:
+  - sha: 7f84c9e1e38b2c8d055145f1a0f264d78e293f26
+    changeNotes: Initial release.
